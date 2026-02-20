@@ -4,3 +4,20 @@ The objective of this project is to build an interactive Car Sales Dashboard in 
 
 ## Dataset Used
 - <a href= "https://github.com/DeekshithReddy03/Car-Sales-Data-Analysis-using-Power-BI/blob/main/Car%20Sales.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- YTD Total Sales
+- MTD Total Sales
+- YTD Average Selling Price
+- MTD Average Selling Price
+- YTD Cars Sold
+- MTD Cars Sold
+- Year-over-Year (YOY) Sales Growth %
+- Sales Difference (YTD vs PYTD)
+- Weekly YTD Sales Trend
+- Company-wise YTD Sales
+- Sales by Body Style
+- Sales by Dealer Region
+- Sales by Customer Gender
+
+
